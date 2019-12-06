@@ -1,2 +1,3 @@
-# letterSongsReact
-Proyecto que consume 2 apis, y obtiene la informacion de una banda y la letra de la cancion que se mande a buscar
+To see this example go and check it in this address: https://song-letter-react-hooks-jesus-cabrita.netlify.com
+
+Para ver este ejemplo vaya a esta direccion: https://song-letter-react-hooks-jesus-cabrita.netlify.com
